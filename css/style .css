@@ -1,0 +1,11 @@
+*{
+    border: 0px;
+   padding: 0px;
+}
+body{
+    font-family: arial , sans-serif;
+    background: #ccc;
+}
+header{
+    background-image: url(../website/img/bg-3.jpg);
+}
